@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scan Code Generator</string>
+    <string name="generate">generate</string>
+    <string name="generated_output">Generated output:</string>
+    <string name="input_text_hint">Please input text</string>
+    <string name="input_label">Input</string>
+    <string-array name="code_format">
+        <item>EAN-8</item>
+        <item>EAN-13</item>
+        <item>UPC-A</item>
+        <item>UPC-E</item>
+        <item>CODABAR</item>
+        <item>CODE 39</item>
+        <item>CODE 93</item>
+        <item>CODE 128</item>
+        <item>PDF 417</item>
+        <item>QR CODE</item>
+        <item>Data Matrix</item>
+    </string-array>
+</resources>
